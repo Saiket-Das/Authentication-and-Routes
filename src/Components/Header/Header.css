@@ -1,0 +1,15 @@
+.navLink {
+    padding: 20px;
+    background-color: rgb(188, 188, 188);
+}
+
+.header nav a {
+    margin: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+}
+
+.header nav a:hover {
+    color: blue;
+}
